@@ -1,0 +1,31 @@
+{
+    "price": 0.01,
+    "number": 20,
+    "gatekeeper": {
+        "gatekeeperNetwork" : "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
+        "expireOnUse" : true
+    },
+    "solTreasuryAccount": "BguNBAnsM5nMgig4g3zZesAs99b9NpYHioqRKjMFZaJP",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "25 Dec 2021 00:00:00 GMT",
+    "endSettings": null,
+    "whitelistMintSettings": {
+        "mode" : { "burnEveryTime": true },
+        "mint" : "GTGdQSZKEft9YNFoCqUoB7YRnRc5qRPP7eSN7xf3gBDm",
+        "presale" : true,
+        "discountPrice" : null
+    },
+    "hiddenSettings": {
+        "name":"Collection 1 ",
+        "uri":"https://www.arweave.net/j1kq31IkwziVNQ77TTiqOv-qmquKLpCxtNiRFAZUqHg",
+        "hash":"0cdb9d8d64cc24b8d39d17fb83bc099cc7cd1a47a3921a3c988ec526c5069e5d"
+    },
+    "storage": "arweave",
+    "ipfsInfuraProjectId": null,
+    "ipfsInfuraSecret": null,
+    "nftStorageKey": null,
+    "awsS3Bucket": null,
+    "noRetainAuthority": false,
+    "noMutable": false
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Collection 1 #13",
+  "symbol": "TEST1",
+  "description": "Description 1",
+  "seller_fee_basis_points": 500,
+  "image": "13.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 13,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "13.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BguNBAnsM5nMgig4g3zZesAs99b9NpYHioqRKjMFZaJP",
+        "share": 100
+      }
+    ]
+  }
+}

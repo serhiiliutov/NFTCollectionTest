@@ -8,7 +8,7 @@
     "solTreasuryAccount": "BguNBAnsM5nMgig4g3zZesAs99b9NpYHioqRKjMFZaJP",
     "splTokenAccount": null,
     "splToken": null,
-    "goLiveDate": "25 Dec 2021 00:00:00 GMT",
+    "goLiveDate": "24 Dec 2021 00:00:00 GMT",
     "endSettings": null,
     "whitelistMintSettings": {
         "mode" : { "burnEveryTime": true },
